@@ -27,6 +27,9 @@ func remove(slice []int, index int) []int {
 }
 
 func main() {
+
+	var num int = 123
+	fmt.Println(num)
 	// Задача 3.4:
 	// Напиши функцию, которая фильтрует срез и возвращает только чётные числа
 
